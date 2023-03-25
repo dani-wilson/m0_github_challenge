@@ -9,3 +9,6 @@ Describe in your own words how to establish a connection between a local reposit
 5. Refresh the repository in github to see that it was done properly
 
 I am making more changes to this file
+
+I am yet again adding more changes to this. 
+FOR THE SAKE OF PRACTICE!
